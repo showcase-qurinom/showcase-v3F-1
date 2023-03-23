@@ -182,34 +182,6 @@ const Footer = () => {
                 </span>
               </a>
             </li>
-
-            <li
-              class="flex items-start justify-center gap-1.5 sm:justify-start"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                class="w-5 h-5 text-white shrink-0"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-                stroke-width="2"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
-                />
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
-                />
-              </svg>
-
-              <address  class="max-w-md mx-auto mt-13 leading-relaxed text-center text-gray-400 sm:max-w-xs sm:mx-0 sm:text-left">
-                Privacy Policy
-              </address>
-            </li>
           </ul>
         </div>  */}
         <div class="grid grid-cols-3>">
